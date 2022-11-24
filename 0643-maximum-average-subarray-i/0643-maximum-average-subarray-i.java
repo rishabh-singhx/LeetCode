@@ -1,17 +1,13 @@
 class Solution {
     public double findMaxAverage(int[] nums, int k) {
-        double ans=0;
-        int si=0;
-        int ei=0;
-        int sum=0;
+        double ans=0,sum=0;
         for(int i=0;i<k;i++)
             sum=sum+nums[i];
-        ans=(double)sum/k;
+        ans=sum/k;
         for(int j=k;j<nums.length;j++)
         {
-            sum=sum+nums[j];
-            sum=sum-nums[j-k];
-            ans=Math.max(ans,(double)sum/k);
+            sum=sum+nums[j]-nums[j-k];
+            ans=Math.max(ans,sum/k);
         }
         return ans;
     }
