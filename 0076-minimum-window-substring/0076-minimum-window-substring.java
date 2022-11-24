@@ -27,7 +27,7 @@ class Solution {
 			//shrink
 			if(count==t.length()) 
             {
-				while(frqs[s.charAt(si)]>frqt[s.charAt(si)] && si<ei) 
+				while(frqs[s.charAt(si)]>frqt[s.charAt(si)] && si<=ei) 
                 {
 					frqs[s.charAt(si)]--;
 					si++;
