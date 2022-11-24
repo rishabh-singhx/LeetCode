@@ -1,29 +1,13 @@
 class Solution {
     public String sortSentence(String s) {
-        s=" "+s;
-        StringBuilder s1 = new StringBuilder(s);
-        int i=1;
-        String s2="";
-        int m,n,z;
-        while(true)
+        String str[]=s.split(" ");
+        String newstr[]=new String[str.length];
+        for(int i=0;i<str.length;i++)
         {
-            n=s1.indexOf(String.valueOf(i));
-            if(n==-1)
-                break;
-            z=n;
-            while(true)
-            {
-                n--;
-                if(s1.charAt(n)==' ')
-                {
-                    m=n;
-                    break;
-                }
-            }
-            i++;
-            s2=s2 + (s1.substring(m+1,z)).toString() +" ";
+            int n=Character.getNumericValue(str[i].charAt(str[i].length()-1));
+            newstr[n-1]=str[i].substring(0,str[i].length()-1);
         }
-        s2=s2.substring(0,s2.length()-1);
-        return s2;
+        String result=String.join(" ",newstr);
+        return result;
     }
 }
