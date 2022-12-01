@@ -19,7 +19,7 @@ class Solution {
 			}
 		}
         for (int i = 0; i < ans.length; i++) {
-			nayi=nayi+Integer.toString(ans[i]);
+			nayi=nayi+ans[i];
 		}
         return nayi;
     }
