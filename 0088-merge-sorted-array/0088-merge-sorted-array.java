@@ -3,7 +3,6 @@ class Solution {
         for(int i=m;i<m+n;i++)
             nums1[i]=nums2[i-m];
         Arrays.sort(nums1);
-        // for(int i=m;i<m+n;i++)
-            System.out.print(nums1);
+        System.out.print(nums1);
     }
 }
