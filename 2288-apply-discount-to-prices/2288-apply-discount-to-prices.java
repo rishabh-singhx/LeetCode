@@ -2,7 +2,6 @@ class Solution {
     public String discountPrices(String sentence, int discount) {
         String[] arr = sentence.split(" ");
         String result="";
-        StringBuilder sb = new StringBuilder();
         for(int i=0;i<arr.length;i++)
         {
             if(check(arr[i]))
@@ -10,19 +9,14 @@ class Solution {
                 double j=Double.parseDouble(arr[i].substring(1));
                 j=j-(discount*j/100);
                 arr[i]=String.format("%.2f", j);
-                // arr[i]=String.valueOf(j);
-                // result=result+"$"+arr[i]+" ";
-                sb.append("$"+arr[i]+" ");
+                result=result+"$"+arr[i]+" ";
             }
             else
             {
-                // result=result+arr[i]+" ";
-                sb.append(arr[i]+" ");
+                result=result+arr[i]+" ";
             }
         }
-        // return result.trim();
-        sb.deleteCharAt(sb.length() - 1);
-        return sb.toString();
+        return result.trim();
     }
     public static boolean check(String s)
     {
