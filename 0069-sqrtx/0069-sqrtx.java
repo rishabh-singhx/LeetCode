@@ -24,5 +24,6 @@ class Solution {
                 lb=mid+1;
         }
         return ub;
+        
     }
 }
