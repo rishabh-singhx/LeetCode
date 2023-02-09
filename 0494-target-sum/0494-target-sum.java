@@ -13,8 +13,9 @@ class Solution {
             }
             return 0;
         }
-        int x=check(a,target,idx+1,sum+a[idx]);
-        int y=check(a,target,idx+1,sum-a[idx]);
+        int x=0,y=0;
+        x=check(a,target,idx+1,sum+a[idx]);
+        y=check(a,target,idx+1,sum-a[idx]);
         return x+y;
     }
 }
