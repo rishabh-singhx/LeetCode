@@ -1,22 +1,20 @@
 class Solution {
-    static int count=0;
     public int findTargetSumWays(int[] nums, int target) 
     {
-        count=0;
-        check(nums,target,0,0);      
-        return count;
+        return check(nums,target,0,0);  
     }
-    public static void check(int a[],int target,int idx,int sum)
+    public static int check(int a[],int target,int idx,int sum)
     {
         if(a.length==idx)
         {
             if(sum==target)
             {
-                count++;
+                return 1;
             }
-            return;
+            return 0;
         }
-        check(a,target,idx+1,sum+a[idx]);
-        check(a,target,idx+1,sum-a[idx]);
+        int x=check(a,target,idx+1,sum+a[idx]);
+        int y=check(a,target,idx+1,sum-a[idx]);
+        return x+y;
     }
 }
