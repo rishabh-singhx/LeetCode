@@ -2,29 +2,35 @@ class Solution {
     static int count=0;
     public int countSubstrings(String s) 
     {
-        count=0;
-        generate_substring(s);
-        return count;
+        return  count_Palindromic(s);
     }
-    public static void generate_substring(String s) 
+    public static int count_Palindromic(String s)
 	{
-		for (int i = 0; i < s.length(); i++) 
+		//ODD length
+		int count=0;
+		for(int axis=0; axis < s.length(); axis++)
 		{
-			for (int j = i+1; j <=s.length(); j++) 
+			for (int orbit = 0; axis - orbit >=0 && axis+orbit < s.length(); orbit++) 
 			{
-				String x=s.substring(i,j);
-				if(palindrome(x))
-						count++;
+				if(s.charAt(axis+orbit)!=s.charAt(axis-orbit))
+				{
+					break;
+				}
+				count++;
 			}
 		}
-	}
-	public static boolean palindrome(String s)
-	{
-		for (int j = s.length()-1,i=0;i<j; i++, j--) 
+		//EVEN length
+		for(double axis=0.5; axis < s.length(); axis++)
 		{
-			if(s.charAt(i)!=s.charAt(j))
-				return false;
+			for (double orbit = 0.5; axis - orbit >=0 && axis+orbit < s.length(); orbit++) 
+			{
+				if(s.charAt((int)(axis+orbit))!=s.charAt((int)(axis-orbit)))
+				{
+					break;
+				}
+				count++;
+			}
 		}
-		return true;
+		return count;
 	}
 }
