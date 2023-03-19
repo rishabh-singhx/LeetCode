@@ -7,7 +7,6 @@ class Solution {
         {
             for(int j=0;j<grid.length;j++)
             {
-                //System.out.print(check(grid,i,j)+" ");
                 if(check(grid,i,j)==false)
                 {
                     return false;
@@ -25,18 +24,12 @@ class Solution {
             if(col<grid.length-1)
             {
                 if(((grid[row][col])+1)==((grid[row+2][col+1])))
-                {
-                    System.out.print(" A  "+row+" "+col);
                     return true;
-                }
             }
             if(col>0)
             {
                 if(((grid[row][col])+1)==((grid[row+2][col-1])))
-                {
-                     System.out.print(" B  "+row+" "+col);
                     return true;
-                }
             }       
         }
         if(row>1)
@@ -44,18 +37,12 @@ class Solution {
             if(col<grid.length-1)
             {
                 if(((grid[row][col])+1)==((grid[row-2][col+1])))
-                {
-                    System.out.print(" C  "+row+" "+col);
                     return true;
-                }
             }
             if(col>0)
             {
                 if(((grid[row][col])+1)==((grid[row-2][col-1])))
-                {
-                    System.out.print(" D  "+row+" "+col);
                     return true;
-                }
             }       
         }
         if(col<grid.length-2)
@@ -63,18 +50,12 @@ class Solution {
             if(row<grid.length-1)
             {
                 if(((grid[row][col])+1)==((grid[row+1][col+2])))
-                {
-                    System.out.print(" E  "+row+" "+col);
                     return true;
-                }
             }
             if(row>0)
             {
                 if(((grid[row][col])+1)==((grid[row-1][col+2])))
-                {
-                    System.out.print("F  "+row+" "+col);
                     return true;
-                }
             }       
         }
         if(col>1)
@@ -82,18 +63,12 @@ class Solution {
             if(row<grid.length-1)
             {
                 if(((grid[row][col])+1)==((grid[row+1][col-2])))
-                {
-                    System.out.print(" G  "+row+" "+col);
                     return true;
-                }
             }
             if(row>0)
             {
                 if(((grid[row][col])+1)==((grid[row-1][col-2])))
-                {
-                    System.out.print(" H  "+row+" "+col);
                     return true;
-                }
             }       
         }
         return false;              
