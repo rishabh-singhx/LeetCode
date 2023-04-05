@@ -11,17 +11,15 @@
  */
 public class Solution {
     public boolean hasCycle(ListNode head) {
-        ListNode x=head;
-        int c=0;
-        while(x!=null)
-        {
-            x=x.next;
-            c++;
-            if(c>10000)
-            {
-              return true;  
-            } 
-        }
-        return false;
+       //Floyed  Cycle detection algorithm
+        ListNode slow=head;
+	        ListNode fast=head;
+	        while(fast!=null && fast.next!=null){
+	            slow=slow.next;
+	            fast=fast.next.next;
+	            if(slow==fast)
+	            	return true;
+	        }
+	       return false;
     }
 }
