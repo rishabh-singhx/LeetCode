@@ -4,7 +4,6 @@ class Solution {
 		Stack<Integer> st=new Stack<>();
 			for(int j=0;j<a.length;j++)
 			{
-               
 				if(a[j].charAt(0)=='C')
 					st.pop();
 				else if(a[j].charAt(0)=='D')
@@ -18,9 +17,7 @@ class Solution {
 				}
 				else
 					st.push(Integer.parseInt(a[j]));
-                 System.out.print(st+" ");
-			}
-            
+            }
 			int sum=0;
 			while(st.size()>0)  		
 				sum=sum+st.pop();
