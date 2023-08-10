@@ -32,7 +32,7 @@ class Solution {
 	    }
 	}
 	
-	class DiaPair{
-		int dia = 0;
-		int ht = -1;
+class DiaPair{
+	int dia = 0;
+	int ht = -1;
 }
