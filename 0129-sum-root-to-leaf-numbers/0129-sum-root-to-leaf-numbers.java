@@ -15,9 +15,9 @@
  */
 class Solution {
     public int sumNumbers(TreeNode root) {
-        return Numbers(root,0);  
-    }
-    public int Numbers(TreeNode root, int sum) {
+	        return Numbers(root,0);	
+	    }
+	    public int Numbers(TreeNode root, int sum) {
 	    	if(root == null) {
 	    		return 0;
 	    	}
