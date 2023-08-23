@@ -20,7 +20,7 @@ class Solution {
 		List<Integer> ll = new ArrayList<>();
 		List<List<Integer>> ans = new ArrayList<>();	
 		if(root==null)
-            return new ArrayList<>();
+            return ans;
         q.add(root);
 		while(!q.isEmpty()) {
 			TreeNode rv = q.remove();  // remove first q.poll();
