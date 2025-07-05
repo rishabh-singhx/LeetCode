@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rishabh-singhx/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/rishabh-singhx/LeetCode/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rishabh-singhx/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/rishabh-singhx/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/rishabh-singhx/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rishabh-singhx/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/rishabh-singhx/LeetCode/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rishabh-singhx/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/rishabh-singhx/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/rishabh-singhx/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -31,6 +33,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rishabh-singhx/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/rishabh-singhx/LeetCode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/rishabh-singhx/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/rishabh-singhx/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
@@ -42,4 +45,8 @@
 |  |
 | ------- |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/rishabh-singhx/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/rishabh-singhx/LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
