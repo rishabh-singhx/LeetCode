@@ -13,9 +13,9 @@ class Solution {
         ListNode head1 = head;
         while(head!=null&&head.next!=null){
             if(head.val==head.next.val){
-                ListNode temp = head.next;
+                //ListNode temp = head.next;
                 head.next=head.next.next;
-                temp.next=null;
+                //temp.next=null;
             }
             else
                 head=head.next;
