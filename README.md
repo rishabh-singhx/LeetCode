@@ -7,10 +7,12 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rishabh-singhx/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rishabh-singhx/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rishabh-singhx/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0349-intersection-of-two-arrays](https://github.com/rishabh-singhx/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rishabh-singhx/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0349-intersection-of-two-arrays](https://github.com/rishabh-singhx/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rishabh-singhx/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rishabh-singhx/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0349-intersection-of-two-arrays](https://github.com/rishabh-singhx/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/rishabh-singhx/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Dynamic Programming
 |  |
@@ -98,6 +101,7 @@
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rishabh-singhx/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0234-palindrome-linked-list](https://github.com/rishabh-singhx/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0349-intersection-of-two-arrays](https://github.com/rishabh-singhx/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Recursion
 |  |
 | ------- |
@@ -106,6 +110,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rishabh-singhx/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0349-intersection-of-two-arrays](https://github.com/rishabh-singhx/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
