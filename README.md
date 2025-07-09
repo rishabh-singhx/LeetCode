@@ -14,6 +14,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rishabh-singhx/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/rishabh-singhx/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0242-valid-anagram](https://github.com/rishabh-singhx/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/rishabh-singhx/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
@@ -112,6 +113,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rishabh-singhx/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/rishabh-singhx/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/rishabh-singhx/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Heap (Priority Queue)
 |  |
@@ -130,4 +132,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/rishabh-singhx/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/rishabh-singhx/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
