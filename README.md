@@ -62,6 +62,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/rishabh-singhx/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rishabh-singhx/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rishabh-singhx/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0801-is-graph-bipartite](https://github.com/rishabh-singhx/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/rishabh-singhx/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -80,6 +81,7 @@
 | [0100-same-tree](https://github.com/rishabh-singhx/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rishabh-singhx/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/rishabh-singhx/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0801-is-graph-bipartite](https://github.com/rishabh-singhx/LeetCode/tree/master/0801-is-graph-bipartite) |
 ## Stack
 |  |
 | ------- |
@@ -132,8 +134,13 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/rishabh-singhx/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0801-is-graph-bipartite](https://github.com/rishabh-singhx/LeetCode/tree/master/0801-is-graph-bipartite) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/rishabh-singhx/LeetCode/tree/master/0242-valid-anagram) |
+## Graph
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/rishabh-singhx/LeetCode/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
