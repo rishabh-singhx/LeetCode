@@ -9,6 +9,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/rishabh-singhx/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rishabh-singhx/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/rishabh-singhx/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0747-min-cost-climbing-stairs](https://github.com/rishabh-singhx/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0747-min-cost-climbing-stairs](https://github.com/rishabh-singhx/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/rishabh-singhx/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
