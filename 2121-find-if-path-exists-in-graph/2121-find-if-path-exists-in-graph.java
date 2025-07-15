@@ -10,23 +10,34 @@ class Solution {
             map.get(edges[i][1]).add(edges[i][0]);
         }
         System.out.println(map); 
-        return hashpath(source,destination,new HashSet<>());
+        return BFS(source,destination);
     }
 
-    public boolean hashpath(int src, int dis, HashSet<Integer> visited) {
-        if (src == dis) {
-            return true;
-        }
-        visited.add(src);
-        for (int nbrs : map.get(src)) {
-            if (!visited.contains(nbrs)) {
-                boolean ans = hashpath(nbrs, dis, visited);
-                if (ans) {
-                    return ans;
+    public boolean BFS(int src, int des) {
+        HashSet<Integer> visited = new HashSet<>();
+        Queue<Integer> q = new LinkedList<>();
+        q.add(src);
+        while (!q.isEmpty()) {
+            // 1. remove
+            int rv = q.poll();
+            // 2. Ignore if already visited
+            if (visited.contains(rv)) {
+                continue;
+            }
+            // 3.marked visited
+            visited.add(rv);
+            // 4. self work
+            if (rv == des) {
+                return true;
+            }
+            // 5. add nbrs unvisited
+            for (int nbrs : map.get(rv)) {
+                if (!visited.contains(nbrs)) {
+                    q.add(nbrs);
                 }
             }
         }
-        //visited.remove(src);
         return false;
     }
+
 }
