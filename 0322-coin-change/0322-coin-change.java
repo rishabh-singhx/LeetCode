@@ -1,25 +1,22 @@
 class Solution {
     public int coinChange(int[] coins, int amount) {
-        return cc(coins, amount);
-    }
+        if (amount < 1)
+            return 0;
 
-    public int cc(int[] coins, int amount) {
-        int max = amount + 1; // A large number used as "infinity"
-        int[] dp = new int[amount + 1];
+        // Create DP array
+        int[] minCoinsDP = new int[amount + 1];
 
-        // Initialize all values to max, except dp[0]
         for (int i = 1; i <= amount; i++) {
-            dp[i] = max;
-        }
 
-        dp[0] = 0;
+            minCoinsDP[i] = Integer.MAX_VALUE;
 
-        // Fill dp array
-        for (int coin : coins) {
-            for (int i = coin; i <= amount; i++) {
-                dp[i] = Math.min(dp[i], dp[i - coin] + 1);
+            // Try each coin
+            for (int coin : coins) {
+                if (coin <= i && minCoinsDP[i - coin] != Integer.MAX_VALUE)
+                    minCoinsDP[i] = Math.min(minCoinsDP[i], 1 + minCoinsDP[i - coin]);
             }
         }
-        return dp[amount] > amount ? -1 : dp[amount];
+
+        return minCoinsDP[amount] == Integer.MAX_VALUE ? -1 : minCoinsDP[amount];
     }
 }
