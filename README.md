@@ -8,6 +8,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rishabh-singhx/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/rishabh-singhx/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rishabh-singhx/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0322-coin-change](https://github.com/rishabh-singhx/LeetCode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/rishabh-singhx/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0747-min-cost-climbing-stairs](https://github.com/rishabh-singhx/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 ## Hash Table
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/rishabh-singhx/LeetCode/tree/master/0072-edit-distance) |
+| [0322-coin-change](https://github.com/rishabh-singhx/LeetCode/tree/master/0322-coin-change) |
 | [0747-min-cost-climbing-stairs](https://github.com/rishabh-singhx/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/rishabh-singhx/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
@@ -85,6 +87,7 @@
 | [0100-same-tree](https://github.com/rishabh-singhx/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rishabh-singhx/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/rishabh-singhx/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0322-coin-change](https://github.com/rishabh-singhx/LeetCode/tree/master/0322-coin-change) |
 | [0801-is-graph-bipartite](https://github.com/rishabh-singhx/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [2121-find-if-path-exists-in-graph](https://github.com/rishabh-singhx/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Stack
