@@ -78,6 +78,7 @@
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/rishabh-singhx/LeetCode/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/rishabh-singhx/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0322-coin-change](https://github.com/rishabh-singhx/LeetCode/tree/master/0322-coin-change) |
 | [0747-min-cost-climbing-stairs](https://github.com/rishabh-singhx/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/rishabh-singhx/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -148,6 +149,7 @@
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/rishabh-singhx/LeetCode/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/rishabh-singhx/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/rishabh-singhx/LeetCode/tree/master/0242-valid-anagram) |
 ## Graph
 |  |
