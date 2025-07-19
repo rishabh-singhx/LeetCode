@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/rishabh-singhx/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rishabh-singhx/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rishabh-singhx/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/rishabh-singhx/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -77,6 +78,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/rishabh-singhx/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/rishabh-singhx/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/rishabh-singhx/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0322-coin-change](https://github.com/rishabh-singhx/LeetCode/tree/master/0322-coin-change) |
@@ -157,4 +159,8 @@
 | [0801-is-graph-bipartite](https://github.com/rishabh-singhx/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1916-find-center-of-star-graph](https://github.com/rishabh-singhx/LeetCode/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/rishabh-singhx/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/rishabh-singhx/LeetCode/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
