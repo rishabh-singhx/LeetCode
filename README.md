@@ -9,6 +9,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rishabh-singhx/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/rishabh-singhx/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rishabh-singhx/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0260-single-number-iii](https://github.com/rishabh-singhx/LeetCode/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/rishabh-singhx/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/rishabh-singhx/LeetCode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/rishabh-singhx/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -172,4 +173,8 @@
 | [0064-minimum-path-sum](https://github.com/rishabh-singhx/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/rishabh-singhx/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/rishabh-singhx/LeetCode/tree/master/1224-minimum-falling-path-sum-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0260-single-number-iii](https://github.com/rishabh-singhx/LeetCode/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
