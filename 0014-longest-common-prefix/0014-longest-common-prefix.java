@@ -16,7 +16,6 @@ class Trie{
     public class Node {
         char data;
         HashMap<Character, Node> child = new HashMap<>();
-        boolean IsTerminal;
         int count = 0;
     }
     public Node root;
@@ -42,7 +41,6 @@ class Trie{
                 temp = nn;
             }
         }
-        temp.IsTerminal = true;
     }
 
     public String common(String firstString,int sizeOfArray) {
