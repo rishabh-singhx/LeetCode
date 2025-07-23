@@ -1,63 +1,48 @@
-class Solution extends Trie {
+import java.util.*;
 
+class Solution {
     public String longestCommonPrefix(String[] strs) {
-        if(strs.length==0)
-            return "";
-        Trie t = new Trie();
-        for(int i=0;i<strs.length;i++){
-            t.insert(strs[i]);
-        }
-        return t.common(strs[0],strs.length);
+        if (strs.length == 0) return "";
 
+        Trie trie = new Trie();
+        for (String word : strs) {
+            trie.insert(word);
+        }
+
+        return trie.getCommonPrefix(strs[0], strs.length);
     }
 }
 
-class Trie{
-    public class Node {
-        char data;
-        HashMap<Character, Node> child = new HashMap<>();
-        boolean IsTerminal;
+class Trie {
+    private static class Node {
+        Map<Character, Node> children = new HashMap<>();
         int count = 0;
     }
-    public Node root;
 
-    public Trie() {
-        root = new Node();
-        root.data = '*';
-    }
+    private final Node root = new Node();
 
     public void insert(String word) {
-        Node temp = root;
-        for (int i = 0; i < word.length(); i++) {
-            char ch = word.charAt(i);
-            if (temp.child.containsKey(ch)) {
-                temp = temp.child.get(ch);
-                temp.count++;
-
-            } else {
-                Node nn = new Node();
-                nn.data = ch;
-                nn.count = 1;
-                temp.child.put(ch, nn);
-                temp = nn;
-            }
+        Node current = root;
+        for (char ch : word.toCharArray()) {
+            current = current.children.computeIfAbsent(ch, k -> new Node());
+            current.count++;
         }
-        temp.IsTerminal = true;
     }
 
-    public String common(String firstString,int sizeOfArray) {
-        String ans = "";
-        Node temp = root;
-        for (int i = 0; i < firstString.length(); i++) {
-            char ch = firstString.charAt(i);
-            if (temp.child.containsKey(ch) && temp.child.get(ch).count==sizeOfArray) {
-                ans += ch;
-                temp = temp.child.get(ch);
-            }
-            else{
+    public String getCommonPrefix(String base, int totalWords) {
+        StringBuilder prefix = new StringBuilder();
+        Node current = root;
+
+        for (char ch : base.toCharArray()) {
+            Node next = current.children.get(ch);
+            if (next != null && next.count == totalWords) {
+                prefix.append(ch);
+                current = next;
+            } else {
                 break;
             }
         }
-        return ans;
+
+        return prefix.toString();
     }
 }
