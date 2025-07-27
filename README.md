@@ -17,6 +17,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/rishabh-singhx/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/rishabh-singhx/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/rishabh-singhx/LeetCode/tree/master/1224-minimum-falling-path-sum-ii) |
+| [3194-find-words-containing-character](https://github.com/rishabh-singhx/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -170,6 +171,7 @@
 | [0115-distinct-subsequences](https://github.com/rishabh-singhx/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/rishabh-singhx/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/rishabh-singhx/LeetCode/tree/master/0242-valid-anagram) |
+| [3194-find-words-containing-character](https://github.com/rishabh-singhx/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Graph
 |  |
 | ------- |
