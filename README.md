@@ -23,6 +23,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rishabh-singhx/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/rishabh-singhx/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0205-isomorphic-strings](https://github.com/rishabh-singhx/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/rishabh-singhx/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/rishabh-singhx/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/rishabh-singhx/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -171,6 +172,7 @@
 | [0020-valid-parentheses](https://github.com/rishabh-singhx/LeetCode/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/rishabh-singhx/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/rishabh-singhx/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0205-isomorphic-strings](https://github.com/rishabh-singhx/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/rishabh-singhx/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/rishabh-singhx/LeetCode/tree/master/0242-valid-anagram) |
 | [0953-reverse-only-letters](https://github.com/rishabh-singhx/LeetCode/tree/master/0953-reverse-only-letters) |
