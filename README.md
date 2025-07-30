@@ -30,6 +30,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/rishabh-singhx/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/rishabh-singhx/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/rishabh-singhx/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [1933-number-of-different-integers-in-a-string](https://github.com/rishabh-singhx/LeetCode/tree/master/1933-number-of-different-integers-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -188,6 +189,7 @@
 | [0242-valid-anagram](https://github.com/rishabh-singhx/LeetCode/tree/master/0242-valid-anagram) |
 | [0953-reverse-only-letters](https://github.com/rishabh-singhx/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/rishabh-singhx/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1933-number-of-different-integers-in-a-string](https://github.com/rishabh-singhx/LeetCode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/rishabh-singhx/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Graph
 |  |
