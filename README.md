@@ -18,6 +18,7 @@
 | [0948-sort-an-array](https://github.com/rishabh-singhx/LeetCode/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/rishabh-singhx/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/rishabh-singhx/LeetCode/tree/master/1224-minimum-falling-path-sum-ii) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rishabh-singhx/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/rishabh-singhx/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/rishabh-singhx/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3194-find-words-containing-character](https://github.com/rishabh-singhx/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -209,6 +210,7 @@
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/rishabh-singhx/LeetCode/tree/master/0260-single-number-iii) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rishabh-singhx/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/rishabh-singhx/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/rishabh-singhx/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Design
@@ -252,4 +254,12 @@
 |  |
 | ------- |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/rishabh-singhx/LeetCode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+## Backtracking
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rishabh-singhx/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rishabh-singhx/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
