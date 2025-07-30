@@ -5,7 +5,6 @@ class Solution {
         Set<String> uniqueNums = new HashSet<>();
         
         for (String part : parts) {
-            System.out.println("*"+part+"*");
             if (!part.isEmpty()) {
                 // Remove leading zeros
                 String num = part.replaceFirst("^0+", "");
