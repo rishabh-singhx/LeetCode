@@ -9,12 +9,9 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             if(nums[i]==maxi){
                 c++;
-                if(i==nums.length-1){
-                    ans=Math.max(ans,c);
-                }
+                ans=Math.max(ans,c);
             }
             else{
-                ans=Math.max(ans,c);
                 c=0;
             }
         }
