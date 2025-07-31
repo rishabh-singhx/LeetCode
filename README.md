@@ -15,6 +15,7 @@
 | [0322-coin-change](https://github.com/rishabh-singhx/LeetCode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/rishabh-singhx/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0747-min-cost-climbing-stairs](https://github.com/rishabh-singhx/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/rishabh-singhx/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0948-sort-an-array](https://github.com/rishabh-singhx/LeetCode/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/rishabh-singhx/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/rishabh-singhx/LeetCode/tree/master/1224-minimum-falling-path-sum-ii) |
@@ -102,6 +103,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/rishabh-singhx/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/rishabh-singhx/LeetCode/tree/master/0322-coin-change) |
 | [0747-min-cost-climbing-stairs](https://github.com/rishabh-singhx/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/rishabh-singhx/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/rishabh-singhx/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/rishabh-singhx/LeetCode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/rishabh-singhx/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -210,6 +212,7 @@
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/rishabh-singhx/LeetCode/tree/master/0260-single-number-iii) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/rishabh-singhx/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rishabh-singhx/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/rishabh-singhx/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/rishabh-singhx/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
