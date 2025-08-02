@@ -23,6 +23,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rishabh-singhx/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/rishabh-singhx/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/rishabh-singhx/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2689-rearranging-fruits](https://github.com/rishabh-singhx/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3194-find-words-containing-character](https://github.com/rishabh-singhx/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@
 | [0242-valid-anagram](https://github.com/rishabh-singhx/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/rishabh-singhx/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/rishabh-singhx/LeetCode/tree/master/1933-number-of-different-integers-in-a-string) |
+| [2689-rearranging-fruits](https://github.com/rishabh-singhx/LeetCode/tree/master/2689-rearranging-fruits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -162,6 +164,7 @@
 | [0242-valid-anagram](https://github.com/rishabh-singhx/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/rishabh-singhx/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/rishabh-singhx/LeetCode/tree/master/0948-sort-an-array) |
+| [2689-rearranging-fruits](https://github.com/rishabh-singhx/LeetCode/tree/master/2689-rearranging-fruits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -255,6 +258,7 @@
 |  |
 | ------- |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/rishabh-singhx/LeetCode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2689-rearranging-fruits](https://github.com/rishabh-singhx/LeetCode/tree/master/2689-rearranging-fruits) |
 ## Game Theory
 |  |
 | ------- |
