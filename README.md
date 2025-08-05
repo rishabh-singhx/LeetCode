@@ -27,6 +27,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/rishabh-singhx/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2689-rearranging-fruits](https://github.com/rishabh-singhx/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3194-find-words-containing-character](https://github.com/rishabh-singhx/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3790-fruits-into-baskets-ii](https://github.com/rishabh-singhx/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/rishabh-singhx/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/rishabh-singhx/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/rishabh-singhx/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3790-fruits-into-baskets-ii](https://github.com/rishabh-singhx/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -281,4 +283,16 @@
 |  |
 | ------- |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/rishabh-singhx/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/rishabh-singhx/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Simulation
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/rishabh-singhx/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/rishabh-singhx/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
