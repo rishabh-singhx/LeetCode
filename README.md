@@ -28,6 +28,7 @@
 | [2689-rearranging-fruits](https://github.com/rishabh-singhx/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3194-find-words-containing-character](https://github.com/rishabh-singhx/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3790-fruits-into-baskets-ii](https://github.com/rishabh-singhx/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/rishabh-singhx/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/rishabh-singhx/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/rishabh-singhx/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/rishabh-singhx/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/rishabh-singhx/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -287,6 +289,7 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/rishabh-singhx/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/rishabh-singhx/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Simulation
 |  |
 | ------- |
@@ -295,4 +298,5 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/rishabh-singhx/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/rishabh-singhx/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->
