@@ -27,6 +27,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/rishabh-singhx/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2689-rearranging-fruits](https://github.com/rishabh-singhx/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3194-find-words-containing-character](https://github.com/rishabh-singhx/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/rishabh-singhx/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3790-fruits-into-baskets-ii](https://github.com/rishabh-singhx/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/rishabh-singhx/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Hash Table
@@ -119,6 +120,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/rishabh-singhx/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/rishabh-singhx/LeetCode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/rishabh-singhx/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/rishabh-singhx/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -221,6 +223,7 @@
 | [0064-minimum-path-sum](https://github.com/rishabh-singhx/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/rishabh-singhx/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/rishabh-singhx/LeetCode/tree/master/1224-minimum-falling-path-sum-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/rishabh-singhx/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Bit Manipulation
 |  |
 | ------- |
