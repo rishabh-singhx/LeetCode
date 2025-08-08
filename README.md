@@ -116,6 +116,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/rishabh-singhx/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/rishabh-singhx/LeetCode/tree/master/0322-coin-change) |
 | [0747-min-cost-climbing-stairs](https://github.com/rishabh-singhx/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0826-soup-servings](https://github.com/rishabh-singhx/LeetCode/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/rishabh-singhx/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/rishabh-singhx/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/rishabh-singhx/LeetCode/tree/master/1224-minimum-falling-path-sum-ii) |
@@ -152,6 +153,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishabh-singhx/LeetCode/tree/master/0002-add-two-numbers) |
+| [0826-soup-servings](https://github.com/rishabh-singhx/LeetCode/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rishabh-singhx/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/rishabh-singhx/LeetCode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Two Pointers
@@ -302,4 +304,8 @@
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/rishabh-singhx/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/rishabh-singhx/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/rishabh-singhx/LeetCode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
