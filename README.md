@@ -155,6 +155,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishabh-singhx/LeetCode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/rishabh-singhx/LeetCode/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/rishabh-singhx/LeetCode/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rishabh-singhx/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/rishabh-singhx/LeetCode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -170,6 +171,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishabh-singhx/LeetCode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/rishabh-singhx/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/rishabh-singhx/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
@@ -231,6 +233,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/rishabh-singhx/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/rishabh-singhx/LeetCode/tree/master/0260-single-number-iii) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/rishabh-singhx/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rishabh-singhx/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
