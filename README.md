@@ -41,6 +41,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/rishabh-singhx/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/rishabh-singhx/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/rishabh-singhx/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0900-reordered-power-of-2](https://github.com/rishabh-singhx/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/rishabh-singhx/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/rishabh-singhx/LeetCode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2689-rearranging-fruits](https://github.com/rishabh-singhx/LeetCode/tree/master/2689-rearranging-fruits) |
@@ -157,6 +158,7 @@
 | [0002-add-two-numbers](https://github.com/rishabh-singhx/LeetCode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/rishabh-singhx/LeetCode/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/rishabh-singhx/LeetCode/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/rishabh-singhx/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rishabh-singhx/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/rishabh-singhx/LeetCode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Two Pointers
@@ -179,6 +181,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/rishabh-singhx/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/rishabh-singhx/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/rishabh-singhx/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0900-reordered-power-of-2](https://github.com/rishabh-singhx/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/rishabh-singhx/LeetCode/tree/master/0948-sort-an-array) |
 | [2689-rearranging-fruits](https://github.com/rishabh-singhx/LeetCode/tree/master/2689-rearranging-fruits) |
 ## Heap (Priority Queue)
@@ -263,6 +266,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/rishabh-singhx/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/rishabh-singhx/LeetCode/tree/master/0948-sort-an-array) |
 ## Sliding Window
 |  |
@@ -290,6 +294,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/rishabh-singhx/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rishabh-singhx/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Prefix Sum
 |  |
