@@ -125,6 +125,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/rishabh-singhx/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/rishabh-singhx/LeetCode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/rishabh-singhx/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/rishabh-singhx/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/rishabh-singhx/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Breadth-First Search
 |  |
