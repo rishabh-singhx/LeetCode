@@ -31,6 +31,6 @@ class Solution {
         // Option 2: skip this number
         int skip = dfs(remaining, idx + 1);
 
-        return dp[remaining][idx] = (int) ((include + (long) skip) % MOD);
+        return dp[remaining][idx] = (int) ((include +  skip) % MOD);
     }
 }
