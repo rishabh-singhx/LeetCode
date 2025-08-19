@@ -38,6 +38,7 @@
 | [0001-two-sum](https://github.com/rishabh-singhx/LeetCode/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rishabh-singhx/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/rishabh-singhx/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0160-intersection-of-two-linked-lists](https://github.com/rishabh-singhx/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/rishabh-singhx/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/rishabh-singhx/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/rishabh-singhx/LeetCode/tree/master/0242-valid-anagram) |
@@ -152,6 +153,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/rishabh-singhx/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rishabh-singhx/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rishabh-singhx/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/rishabh-singhx/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/rishabh-singhx/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rishabh-singhx/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
@@ -168,6 +170,7 @@
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rishabh-singhx/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/rishabh-singhx/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/rishabh-singhx/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/rishabh-singhx/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0953-reverse-only-letters](https://github.com/rishabh-singhx/LeetCode/tree/master/0953-reverse-only-letters) |
