@@ -71,6 +71,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/rishabh-singhx/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rishabh-singhx/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/rishabh-singhx/LeetCode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/rishabh-singhx/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rishabh-singhx/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rishabh-singhx/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/rishabh-singhx/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -88,6 +89,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/rishabh-singhx/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rishabh-singhx/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/rishabh-singhx/LeetCode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/rishabh-singhx/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rishabh-singhx/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rishabh-singhx/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/rishabh-singhx/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -102,6 +104,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/rishabh-singhx/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rishabh-singhx/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/rishabh-singhx/LeetCode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/rishabh-singhx/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rishabh-singhx/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rishabh-singhx/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/rishabh-singhx/LeetCode/tree/master/0801-is-graph-bipartite) |
@@ -152,6 +155,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/rishabh-singhx/LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/rishabh-singhx/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/rishabh-singhx/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rishabh-singhx/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rishabh-singhx/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/rishabh-singhx/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -162,6 +166,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/rishabh-singhx/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rishabh-singhx/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rishabh-singhx/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/rishabh-singhx/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rishabh-singhx/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/rishabh-singhx/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rishabh-singhx/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
