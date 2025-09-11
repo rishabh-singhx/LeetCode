@@ -8,18 +8,18 @@ class Solution {
             }
         }
         Collections.sort(l);
-        String ans = "";
+        StringBuilder ans = new StringBuilder();
         for (int i = 0; i < s.length(); i++) {
             char c = s.charAt(i);
             if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u' || c == 'A' || c == 'E' || c == 'I' || c == 'O'
                     || c == 'U') {
-                ans += l.get(0);
+                ans.append(l.get(0));
                 l.remove(0);
 
             } else {
-                ans += c;
+                ans.append(c);
             }
         }
-        return ans;
+        return ans.toString();
     }
 }
