@@ -206,6 +206,7 @@
 | [0900-reordered-power-of-2](https://github.com/rishabh-singhx/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/rishabh-singhx/LeetCode/tree/master/0948-sort-an-array) |
 | [2689-rearranging-fruits](https://github.com/rishabh-singhx/LeetCode/tree/master/2689-rearranging-fruits) |
+| [2887-sort-vowels-in-a-string](https://github.com/rishabh-singhx/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -241,6 +242,7 @@
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/rishabh-singhx/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/rishabh-singhx/LeetCode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/rishabh-singhx/LeetCode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2887-sort-vowels-in-a-string](https://github.com/rishabh-singhx/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/rishabh-singhx/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Graph
 |  |
