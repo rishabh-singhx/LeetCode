@@ -33,6 +33,7 @@
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/rishabh-singhx/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3790-fruits-into-baskets-ii](https://github.com/rishabh-singhx/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/rishabh-singhx/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/rishabh-singhx/LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [0940-fruit-into-baskets](https://github.com/rishabh-singhx/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/rishabh-singhx/LeetCode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2689-rearranging-fruits](https://github.com/rishabh-singhx/LeetCode/tree/master/2689-rearranging-fruits) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/rishabh-singhx/LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -296,6 +298,7 @@
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/rishabh-singhx/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/rishabh-singhx/LeetCode/tree/master/0948-sort-an-array) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/rishabh-singhx/LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Sliding Window
 |  |
 | ------- |
